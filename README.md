@@ -1,1 +1,1 @@
-# Instant-AI-Projects
+# Instant-Projects
